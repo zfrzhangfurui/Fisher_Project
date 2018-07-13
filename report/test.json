@@ -1,0 +1,1130 @@
+[
+	{
+		"W1_HORSE" : "ARRESTAR",
+		"W1_DATE" : "2017-05-27",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "ARRESTAR",
+		"W1_DATE" : "2017-06-17",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "ARRESTAR",
+		"W1_DATE" : "2017-07-01",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "BALMAIN BOY",
+		"W1_DATE" : "2016-10-08",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "BALMAIN BOY",
+		"W1_DATE" : "2016-11-12",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "BALMAIN BOY",
+		"W1_DATE" : "2017-05-20",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "BERRY DELICIOUS",
+		"W1_DATE" : "2016-06-04",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "BERRY DELICIOUS",
+		"W1_DATE" : "2016-06-25",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "BERRY DELICIOUS",
+		"W1_DATE" : "2016-11-19",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "BERRY DELICIOUS",
+		"W1_DATE" : "2017-06-24",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "CAUTHEN'S POWER",
+		"W1_DATE" : "2016-12-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 9
+	},
+	{
+		"W1_HORSE" : "CAUTHEN'S POWER",
+		"W1_DATE" : "2017-01-28",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "CAUTHEN'S POWER",
+		"W1_DATE" : "2017-02-13",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "CHARLIE CHAP",
+		"W1_DATE" : "2016-12-31",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "CHARLIE CHAP",
+		"W1_DATE" : "2017-01-07",
+		"W1_TRACK" : "W FM",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "CHARLIE CHAP",
+		"W1_DATE" : "2017-04-22",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "CHARLIE CHAP",
+		"W1_DATE" : "2017-05-20",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "CHARLIE CHAP",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "CHILLOUT",
+		"W1_DATE" : "2016-04-24",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "CHILLOUT",
+		"W1_DATE" : "2016-05-08",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "CHILLOUT",
+		"W1_DATE" : "2016-11-27",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "CHILLOUT",
+		"W1_DATE" : "2017-03-26",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "CONDOR",
+		"W1_DATE" : "2017-06-17",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "CONDOR",
+		"W1_DATE" : "2017-07-01",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "CONDOR",
+		"W1_DATE" : "2017-07-15",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "CONDOR",
+		"W1_DATE" : "2017-07-29",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "DEMONS RUN",
+		"W1_DATE" : "2016-05-08",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "DEMONS RUN",
+		"W1_DATE" : "2017-04-23",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "DEMONS RUN",
+		"W1_DATE" : "2017-05-07",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "DESTINY'S KISS",
+		"W1_DATE" : "2016-11-05",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "DESTINY'S KISS",
+		"W1_DATE" : "2016-11-19",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "DESTINY'S KISS",
+		"W1_DATE" : "2017-06-17",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "DESTINY'S KISS",
+		"W1_DATE" : "2017-06-24",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "DREAM LANE",
+		"W1_DATE" : "2016-04-09",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "DREAM LANE",
+		"W1_DATE" : "2017-04-08",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "DREAM LANE",
+		"W1_DATE" : "2017-05-20",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "DREAM LANE",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "DYLAN'S ROJO",
+		"W1_DATE" : "2016-07-23",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "DYLAN'S ROJO",
+		"W1_DATE" : "2016-11-05",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "DYLAN'S ROJO",
+		"W1_DATE" : "2016-12-24",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "DYLAN'S ROJO",
+		"W1_DATE" : "2017-01-28",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "DYLAN'S ROJO",
+		"W1_DATE" : "2017-02-13",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "EMBLEY",
+		"W1_DATE" : "2016-12-24",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "EMBLEY",
+		"W1_DATE" : "2017-01-28",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "EMBLEY",
+		"W1_DATE" : "2017-07-29",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "FOREIGN PRINCE",
+		"W1_DATE" : "2016-06-04",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "FOREIGN PRINCE",
+		"W1_DATE" : "2016-06-18",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 2
+	},
+	{
+		"W1_HORSE" : "FOREIGN PRINCE",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "FOREIGN PRINCE",
+		"W1_DATE" : "2017-06-17",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GEE GEE DOUBLE DEE",
+		"W1_DATE" : "2016-11-27",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "GEE GEE DOUBLE DEE",
+		"W1_DATE" : "2017-04-09",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GEE GEE DOUBLE DEE",
+		"W1_DATE" : "2017-04-23",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GEE GEE DOUBLE DEE",
+		"W1_DATE" : "2017-05-07",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "GEE GEE LANETT",
+		"W1_DATE" : "2016-11-01",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "GEE GEE LANETT",
+		"W1_DATE" : "2017-04-09",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GEE GEE LANETT",
+		"W1_DATE" : "2017-04-23",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "GEE GEE LANETT",
+		"W1_DATE" : "2017-05-07",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GEE GEE RED PRINCE",
+		"W1_DATE" : "2016-05-08",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GEE GEE RED PRINCE",
+		"W1_DATE" : "2016-11-01",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GEE GEE RED PRINCE",
+		"W1_DATE" : "2016-12-16",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GEE GEES CAN TELL",
+		"W1_DATE" : "2016-12-16",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "GEE GEES CAN TELL",
+		"W1_DATE" : "2017-04-23",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "GEE GEES CAN TELL",
+		"W1_DATE" : "2017-05-07",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GET ON THE GRANGE",
+		"W1_DATE" : "2017-05-20",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GET ON THE GRANGE",
+		"W1_DATE" : "2017-06-10",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "GET ON THE GRANGE",
+		"W1_DATE" : "2017-06-24",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "GOLD SYMPHONY",
+		"W1_DATE" : "2016-08-27",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "GOLD SYMPHONY",
+		"W1_DATE" : "2017-02-04",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "GOLD SYMPHONY",
+		"W1_DATE" : "2017-02-18",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "HIGHLY GEARED",
+		"W1_DATE" : "2016-08-27",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "HIGHLY GEARED",
+		"W1_DATE" : "2016-09-10",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "HIGHLY GEARED",
+		"W1_DATE" : "2017-07-22",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "HURRARA",
+		"W1_DATE" : "2016-07-02",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "HURRARA",
+		"W1_DATE" : "2016-07-23",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "HURRARA",
+		"W1_DATE" : "2016-11-05",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "HURRARA",
+		"W1_DATE" : "2017-01-07",
+		"W1_TRACK" : "W FM",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "HURRARA",
+		"W1_DATE" : "2017-01-28",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "IGGI POP",
+		"W1_DATE" : "2016-11-19",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "IGGI POP",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "IGGI POP",
+		"W1_DATE" : "2017-06-17",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "INVINZABEEL",
+		"W1_DATE" : "2016-06-18",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "INVINZABEEL",
+		"W1_DATE" : "2017-01-28",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "INVINZABEEL",
+		"W1_DATE" : "2017-02-13",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "INVINZABEEL",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "INZ'N'OUT",
+		"W1_DATE" : "2016-05-28",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "INZ'N'OUT",
+		"W1_DATE" : "2016-06-04",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "INZ'N'OUT",
+		"W1_DATE" : "2016-06-25",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "INZ'N'OUT",
+		"W1_DATE" : "2016-11-01",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "INZ'N'OUT",
+		"W1_DATE" : "2017-06-24",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "IPSO FACTO",
+		"W1_DATE" : "2016-11-05",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "IPSO FACTO",
+		"W1_DATE" : "2016-11-26",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 2
+	},
+	{
+		"W1_HORSE" : "IPSO FACTO",
+		"W1_DATE" : "2017-05-20",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "ISORICH",
+		"W1_DATE" : "2016-11-05",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "ISORICH",
+		"W1_DATE" : "2017-01-07",
+		"W1_TRACK" : "W FM",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "ISORICH",
+		"W1_DATE" : "2017-01-28",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "ISORICH",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "KUDERO",
+		"W1_DATE" : "2016-11-12",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "KUDERO",
+		"W1_DATE" : "2016-12-24",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 9
+	},
+	{
+		"W1_HORSE" : "KUDERO",
+		"W1_DATE" : "2017-01-07",
+		"W1_TRACK" : "W FM",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "KUDERO",
+		"W1_DATE" : "2017-06-24",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "KUDERO",
+		"W1_DATE" : "2017-07-22",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "LEGERITY",
+		"W1_DATE" : "2016-05-07",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "LEGERITY",
+		"W1_DATE" : "2016-05-21",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "LEGERITY",
+		"W1_DATE" : "2016-06-04",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "LIPIZZAN",
+		"W1_DATE" : "2017-06-10",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "LIPIZZAN",
+		"W1_DATE" : "2017-06-24",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "LIPIZZAN",
+		"W1_DATE" : "2017-07-08",
+		"W1_TRACK" : "W FM",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "LOOPHOLE",
+		"W1_DATE" : "2016-06-04",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "LOOPHOLE",
+		"W1_DATE" : "2016-06-18",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 2
+	},
+	{
+		"W1_HORSE" : "LOOPHOLE",
+		"W1_DATE" : "2016-08-13",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "LOOPHOLE",
+		"W1_DATE" : "2017-06-24",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "LUNAR RISE",
+		"W1_DATE" : "2016-10-22",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "LUNAR RISE",
+		"W1_DATE" : "2016-11-12",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "LUNAR RISE",
+		"W1_DATE" : "2016-11-19",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "MARENOSTRO",
+		"W1_DATE" : "2016-06-04",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "MARENOSTRO",
+		"W1_DATE" : "2016-06-25",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "MARENOSTRO",
+		"W1_DATE" : "2016-08-13",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "MARIAH'S MAGIC",
+		"W1_DATE" : "2017-03-26",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "MARIAH'S MAGIC",
+		"W1_DATE" : "2017-04-23",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "MARIAH'S MAGIC",
+		"W1_DATE" : "2017-05-07",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "METALLIC CROWN",
+		"W1_DATE" : "2016-06-04",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "METALLIC CROWN",
+		"W1_DATE" : "2016-06-18",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "METALLIC CROWN",
+		"W1_DATE" : "2016-12-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 9
+	},
+	{
+		"W1_HORSE" : "METALLIC CROWN",
+		"W1_DATE" : "2016-12-17",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 2
+	},
+	{
+		"W1_HORSE" : "MOHER",
+		"W1_DATE" : "2016-11-12",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "MOHER",
+		"W1_DATE" : "2016-11-26",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "MOHER",
+		"W1_DATE" : "2016-12-17",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 2
+	},
+	{
+		"W1_HORSE" : "MONTAUK",
+		"W1_DATE" : "2016-12-24",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "MONTAUK",
+		"W1_DATE" : "2017-01-28",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "MONTAUK",
+		"W1_DATE" : "2017-02-25",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "MONTAUK",
+		"W1_DATE" : "2017-05-20",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "MONTAUK",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "MORE THAN FABULOUS",
+		"W1_DATE" : "2016-12-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 9
+	},
+	{
+		"W1_HORSE" : "MORE THAN FABULOUS",
+		"W1_DATE" : "2016-12-17",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 2
+	},
+	{
+		"W1_HORSE" : "MORE THAN FABULOUS",
+		"W1_DATE" : "2016-12-24",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "MORE THAN FABULOUS",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 9
+	},
+	{
+		"W1_HORSE" : "MORE THAN FABULOUS",
+		"W1_DATE" : "2017-07-29",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "PLAYER ONE",
+		"W1_DATE" : "2016-05-08",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "PLAYER ONE",
+		"W1_DATE" : "2017-01-06",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "PLAYER ONE",
+		"W1_DATE" : "2017-01-22",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "REIBY THE RED",
+		"W1_DATE" : "2016-06-11",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "REIBY THE RED",
+		"W1_DATE" : "2016-12-24",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "REIBY THE RED",
+		"W1_DATE" : "2017-06-17",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "RELIGIFY",
+		"W1_DATE" : "2016-10-22",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "RELIGIFY",
+		"W1_DATE" : "2016-11-05",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "RELIGIFY",
+		"W1_DATE" : "2017-01-14",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "RELIGIFY",
+		"W1_DATE" : "2017-02-04",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "SNOOPY",
+		"W1_DATE" : "2016-08-27",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "SNOOPY",
+		"W1_DATE" : "2016-11-26",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "SNOOPY",
+		"W1_DATE" : "2016-12-24",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "SNOOPY",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "SO WILLIE",
+		"W1_DATE" : "2016-09-03",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "SO WILLIE",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "SO WILLIE",
+		"W1_DATE" : "2017-06-17",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "SO WILLIE",
+		"W1_DATE" : "2017-07-22",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "STEP THE PEDAL",
+		"W1_DATE" : "2016-05-08",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "STEP THE PEDAL",
+		"W1_DATE" : "2017-01-22",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "STEP THE PEDAL",
+		"W1_DATE" : "2017-04-23",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "STEP THE PEDAL",
+		"W1_DATE" : "2017-05-07",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "SUPPLY AND DEMAND",
+		"W1_DATE" : "2017-05-27",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "SUPPLY AND DEMAND",
+		"W1_DATE" : "2017-06-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "SUPPLY AND DEMAND",
+		"W1_DATE" : "2017-06-17",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "THAT'S A GOOD IDEA",
+		"W1_DATE" : "2016-05-28",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "THAT'S A GOOD IDEA",
+		"W1_DATE" : "2016-11-01",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "THAT'S A GOOD IDEA",
+		"W1_DATE" : "2016-11-12",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "TROT ON CANDY",
+		"W1_DATE" : "2016-04-24",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "TROT ON CANDY",
+		"W1_DATE" : "2016-05-08",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "TROT ON CANDY",
+		"W1_DATE" : "2017-01-22",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "UPSCALE",
+		"W1_DATE" : "2016-12-17",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "UPSCALE",
+		"W1_DATE" : "2017-06-17",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "UPSCALE",
+		"W1_DATE" : "2017-07-01",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 6
+	},
+	{
+		"W1_HORSE" : "UPSCALE",
+		"W1_DATE" : "2017-07-22",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "VIRGILIO",
+		"W1_DATE" : "2016-05-21",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "VIRGILIO",
+		"W1_DATE" : "2017-04-08",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "VIRGILIO",
+		"W1_DATE" : "2017-07-29",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 3
+	},
+	{
+		"W1_HORSE" : "WINDRIDER",
+		"W1_DATE" : "2016-11-27",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "WINDRIDER",
+		"W1_DATE" : "2016-12-16",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "WINDRIDER",
+		"W1_DATE" : "2017-07-09",
+		"W1_TRACK" : "ELWK",
+		"W1_RACE_NO" : 1
+	},
+	{
+		"W1_HORSE" : "WINE 'N' DINE",
+		"W1_DATE" : "2016-06-25",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 5
+	},
+	{
+		"W1_HORSE" : "WINE 'N' DINE",
+		"W1_DATE" : "2016-11-05",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "WINE 'N' DINE",
+		"W1_DATE" : "2016-11-12",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "WOULDNT IT BE NICE",
+		"W1_DATE" : "2016-06-25",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "WOULDNT IT BE NICE",
+		"W1_DATE" : "2016-07-23",
+		"W1_TRACK" : "CANT",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "WOULDNT IT BE NICE",
+		"W1_DATE" : "2017-06-24",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 7
+	},
+	{
+		"W1_HORSE" : "YUMA DESERT",
+		"W1_DATE" : "2016-12-03",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "YUMA DESERT",
+		"W1_DATE" : "2016-12-17",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 4
+	},
+	{
+		"W1_HORSE" : "YUMA DESERT",
+		"W1_DATE" : "2017-05-06",
+		"W1_TRACK" : "RHIL",
+		"W1_RACE_NO" : 8
+	},
+	{
+		"W1_HORSE" : "YUMA DESERT",
+		"W1_DATE" : "2017-06-10",
+		"W1_TRACK" : "RAND",
+		"W1_RACE_NO" : 6
+	}
+]

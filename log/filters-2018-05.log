@@ -1,0 +1,150 @@
+Filters:2018-05-08 14:34:46
+whereClause=> WHERE M.M_STATE IN ('NSW','TAS') AND ((W.W_BAR_POS >= 1 AND W.W_BAR_POS <= 9) ) AND (R.R_CLASS LIKE '95B%' OR R.R_CLASS LIKE '90B%' OR R.R_CLASS LIKE '85B%' OR R.R_CLASS LIKE '80B%' OR R.R_CLASS LIKE 'OPN%' ) AND M.M_DATE >= '2016-04-05' AND M.M_DATE <= '2017-08-01' AND W.W_WGHT_CAR NOT IN ('uk', 'PEND') (305)
+whereClause_WFA=> 
+whereClause_trackcat=> M
+whereClause_DOW=> Sat
+whereClause_magin=> 
+horsmastUsed=> 0
+num_result=> 1000
+least_run=> 3
+same=> CONCAT(M.M_STATE,'::',T.TRACK) AS SAME
+daysBet=> 36500
+dayPreStart=> 36500
+selectedReport=> Race Class
+reportCol=> LEFT(R.R_CLASS, LOCATE('.',R.R_CLASS) - 1) AS REPORT
+
+Filters:2018-05-08 14:38:09
+whereClause=> WHERE M.M_STATE IN ('NSW','TAS') AND ((W.W_BAR_POS >= 1 AND W.W_BAR_POS <= 9) ) AND (R.R_CLASS LIKE '95B%' OR R.R_CLASS LIKE '90B%' OR R.R_CLASS LIKE '85B%' OR R.R_CLASS LIKE '80B%' OR R.R_CLASS LIKE 'OPN%' ) AND M.M_DATE >= '2016-04-05' AND M.M_DATE <= '2017-08-01' AND W.W_WGHT_CAR NOT IN ('uk', 'PEND') (305)
+whereClause_WFA=> 
+whereClause_trackcat=> M
+whereClause_DOW=> Sat
+whereClause_magin=> 
+horsmastUsed=> 0
+num_result=> 1000
+least_run=> 3
+same=> CONCAT(M.M_STATE,'::',T.TRACK) AS SAME
+daysBet=> 36500
+dayPreStart=> 36500
+selectedReport=> Race Class
+reportCol=> LEFT(R.R_CLASS, LOCATE('.',R.R_CLASS) - 1) AS REPORT
+
+Filters:2018-05-08 14:40:38
+whereClause=> WHERE M.M_STATE IN ('NSW','TAS') AND ((W.W_BAR_POS >= 1 AND W.W_BAR_POS <= 9) ) AND (R.R_CLASS LIKE '95B%' OR R.R_CLASS LIKE '90B%' OR R.R_CLASS LIKE '85B%' OR R.R_CLASS LIKE '80B%' OR R.R_CLASS LIKE 'OPN%' ) AND M.M_DATE >= '2016-04-05' AND M.M_DATE <= '2017-08-01' AND W.W_WGHT_CAR NOT IN ('uk', 'PEND') (305)
+whereClause_WFA=> 
+whereClause_trackcat=> M
+whereClause_DOW=> Sat
+whereClause_magin=> 
+horsmastUsed=> 0
+num_result=> 1000
+least_run=> 3
+same=> CONCAT(M.M_STATE,'::',T.TRACK) AS SAME
+daysBet=> 36500
+dayPreStart=> 36500
+selectedReport=> Race Class
+reportCol=> LEFT(R.R_CLASS, LOCATE('.',R.R_CLASS) - 1) AS REPORT
+
+Filters:2018-05-13 20:02:05
+whereClause=> WHERE M.M_DATE >= '2016-08-01' AND M.M_DATE <= '2017-08-01' AND R.R_TR_COND IN ('F','G') AND R.R_TC_LONG IN ('FIRM 1','FIRM 2','GOOD 3') AND W.W_WGHT_CAR NOT IN ('uk', 'PEND') (175)
+whereClause_WFA=> 
+whereClause_trackcat=> 
+whereClause_DOW=> 
+whereClause_magin=> 
+horsmastUsed=> 0
+num_result=> 1000
+least_run=> 2
+same=> 'Track Condition' AS SAME
+daysBet=> 36500
+dayPreStart=> 36500
+selectedReport=> Track Condition
+reportCol=> R.R_TR_COND AS REPORT
+
+Filters:2018-05-21 11:35:31
+whereClause=> WHERE M.M_DATE >= '2018-01-01' AND R.R_TR_COND IN ('F','G') AND R.R_TC_LONG IN ('FIRM 1','FIRM 2','GOOD 3') AND W.W_WGHT_CAR NOT IN ('uk', 'PEND') (146)
+whereClause_WFA=> 
+whereClause_trackcat=> 
+whereClause_DOW=> 
+whereClause_magin=> 
+horsmastUsed=> 0
+num_result=> 1000
+least_run=> 2
+same=> 'Track Category' AS SAME
+daysBet=> 36500
+dayPreStart=> 36500
+selectedReport=> Track Category
+reportCol=> T.TRACK AS REPORT
+
+Filters:2018-05-21 18:02:27
+whereClause=> WHERE SUBSTRING_INDEX( SUBSTRING_INDEX(R.R_CLASS, '.', -3), '.', 1) IN ('2+','3+','4+','5+','  ') AND M.M_DATE >= '2008-08-01' AND W.W_WGHT_CAR NOT IN ('uk', 'PEND') (165)
+whereClause_WFA=> 
+whereClause_trackcat=> 
+whereClause_DOW=> 
+whereClause_magin=> 
+horsmastUsed=> 0
+num_result=> 1000
+least_run=> 2
+same=> CONCAT(LEFT(R.R_CLASS, LOCATE('.',R.R_CLASS) - 1),'::',M.M_STATE,'::',T.TRACK,'::',D.DOW,'::',R.R_DISTANCE) AS SAME
+daysBet=> 43
+dayPreStart=> 22
+selectedReport=> Track Condition
+reportCol=> R.R_TR_COND AS REPORT
+
+Filters:2018-05-21 18:29:20
+whereClause=> WHERE SUBSTRING_INDEX( SUBSTRING_INDEX(R.R_CLASS, '.', -3), '.', 1) IN ('2+','3+','4+','5+','  ') AND M.M_DATE >= '2008-08-01' AND W.W_WGHT_CAR NOT IN ('uk', 'PEND') (165)
+whereClause_WFA=> 
+whereClause_trackcat=> 
+whereClause_DOW=> 
+whereClause_magin=> 
+horsmastUsed=> 0
+num_result=> 1000
+least_run=> 2
+same=> CONCAT(LEFT(R.R_CLASS, LOCATE('.',R.R_CLASS) - 1),'::',M.M_STATE,'::',R.R_SEX,'::',T.TRACK,'::',D.DOW,'::',R.R_TR_COND) AS SAME
+daysBet=> 43
+dayPreStart=> 22
+selectedReport=> Track Condition
+reportCol=> R.R_TR_COND AS REPORT
+
+Filters:2018-05-21 19:39:27
+whereClause=> WHERE SUBSTRING_INDEX( SUBSTRING_INDEX(R.R_CLASS, '.', -3), '.', 1) IN ('2+','3+','4+','5+','  ') AND M.M_DATE >= '2008-08-01' AND W.W_WGHT_CAR NOT IN ('uk', 'PEND') (165)
+whereClause_WFA=> 
+whereClause_trackcat=> 
+whereClause_DOW=> 
+whereClause_magin=> 
+horsmastUsed=> 0
+num_result=> 1000
+least_run=> 2
+same=> CONCAT(LEFT(R.R_CLASS, LOCATE('.',R.R_CLASS) - 1),'::',M.M_STATE,'::',T.TRACK,'::',D.DOW,'::',R.R_DISTANCE) AS SAME
+daysBet=> 43
+dayPreStart=> 22
+selectedReport=> Track Condition
+reportCol=> R.R_TR_COND AS REPORT
+
+Filters:2018-05-22 06:58:06
+whereClause=> WHERE SUBSTRING_INDEX( SUBSTRING_INDEX(R.R_CLASS, '.', -3), '.', 1) IN ('2+','3+','4+','5+','  ') AND R.R_SEX IN (' ') AND M.M_DATE >= '2008-08-01' AND (R.R_CLASS LIKE '%.' ) AND W.W_WGHT_CAR NOT IN ('uk', 'PEND') (213)
+whereClause_WFA=> 
+whereClause_trackcat=> 
+whereClause_DOW=> 
+whereClause_magin=> 26,26.0,26.0+
+horsmastUsed=> 0
+num_result=> 1000
+least_run=> 2
+same=> CONCAT(LEFT(R.R_CLASS, LOCATE('.',R.R_CLASS) - 1),'::',M.M_STATE,'::',T.TRACK,'::',D.DOW,'::',R.R_DISTANCE) AS SAME
+daysBet=> 43
+dayPreStart=> 22
+selectedReport=> Track Condition
+reportCol=> R.R_TR_COND AS REPORT
+
+Filters:2018-05-22 08:29:25
+whereClause=> WHERE SUBSTRING_INDEX( SUBSTRING_INDEX(R.R_CLASS, '.', -3), '.', 1) IN ('2+','3+','4+','5+','  ') AND R.R_SEX IN (' ') AND M.M_DATE >= '2008-08-01' AND (R.R_CLASS LIKE '%.' ) AND W.W_WGHT_CAR NOT IN ('uk', 'PEND') (213)
+whereClause_WFA=> 
+whereClause_trackcat=> 
+whereClause_DOW=> 
+whereClause_magin=> 26,26.0,26.0+
+horsmastUsed=> 0
+num_result=> 1000
+least_run=> 2
+same=> CONCAT(LEFT(R.R_CLASS, LOCATE('.',R.R_CLASS) - 1),'::',M.M_STATE,'::',T.TRACK,'::',D.DOW) AS SAME
+daysBet=> 43
+dayPreStart=> 22
+selectedReport=> Track Condition
+reportCol=> R.R_TR_COND AS REPORT
+
