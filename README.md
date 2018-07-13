@@ -4,3 +4,6 @@ In order to hanle over 6 Million records, we use stored-procedure to write the a
 We use PHP as a intermediate to link front-end to back-end. A new method of requiring data from database was used in the application. Althrough it didn't give more benefit to the application, it provide a easilier way to program in PHP(logical way).
 In the front-end, Angular-js + bootstrap were used to display all the information. In this section, Angular-js is boost the process of building up the front-end.
 
+Two main part is procedure and report.
+
+
